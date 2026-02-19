@@ -4,7 +4,7 @@ description: Access and articulate trauma, inherited memory, and cyclical experi
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4828
+  version: 1.0.4829
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - rememory-narrative
